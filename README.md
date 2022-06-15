@@ -23,7 +23,7 @@ border: 2px solid cornflowerblue;
 </style>
 </head>
 <body>
-<h1>TopSite98.com Login Form</h1>
+<h1>سایت ازمایشی مانی </h1>
 <div class="container">
 <form action="/action_page.php">
 <label for="uname"><b>Username</b></label>
@@ -35,4 +35,4 @@ border: 2px solid cornflowerblue;
 </div>
 </body>
 </html>
-مانی بالیده هستم 
+
