@@ -77,12 +77,7 @@ ul.MyMenu li a:hover{
  <li><a href="#">مانی </a></li>
  <li><a href="1953.html">کلیک کنید  </a></li> 
     
-    
-    <a href="1953.html"button>klik</button> 
-   
-
-</ul>
-<button onclick="myFunction()"class="kelidestan_button">تاچ کنید</button>
+ 
  
 <div class="MyContent">
 </div>
