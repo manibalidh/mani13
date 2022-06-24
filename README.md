@@ -81,7 +81,3 @@ ul.MyMenu li a:hover{
  
 <div class="MyContent">
 </div>
-
-
-</body>
-</html>
