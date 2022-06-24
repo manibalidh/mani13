@@ -82,12 +82,6 @@ ul.MyMenu li a:hover{
 <div class="MyContent">
 </div>
 
-<script>
-    function myFunction() {
-       var element = document.body;
-       element.classList.toggle("dark-mode");
-    }
-    </script>
 
 </body>
 </html>
