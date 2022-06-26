@@ -221,7 +221,7 @@
     </style>
 </head>
 	<body> 
-        <h1>Login & registration Form</h1>
+       
             <div class="info"><a href="https://www.grandvincent-marion.fr" target="_blank"><p> Made with <i class="fa fa-heart"></i> by Marion Grandvincent </p></a></div>
           
         <div class="content">
