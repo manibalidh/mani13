@@ -135,7 +135,7 @@
 setTimeout(function(){alert("خوش آمدید به سایت مانی بالیده "); },3000);
 </script>
 <script>
-var a=prompt("how old you?");
+var a=prompt("چند سالته عزیزم ?");
 var year=1399-a;
 alert("your birth year is "+year);
 </script>
