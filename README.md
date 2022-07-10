@@ -131,5 +131,8 @@
    $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
 });
   </script>
+  <script>
+setTimeout(function(){alert("welcome to 7learn"); },3000);
+</script>
 </body>
 </html>
