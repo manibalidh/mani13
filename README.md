@@ -132,7 +132,7 @@
 });
   </script>
   <script>
-setTimeout(function(){alert("welcome to 7learn"); },3000);
+setTimeout(function(){alert("خوش آمدید به سایت مانی بالیده "); },3000);
 </script>
 </body>
 </html>
