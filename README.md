@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <head>
     <title>quiz</title>
@@ -48,7 +48,7 @@ background-color: #4CAF50; /* Green */
     </style>
 </head>
 <body>
-  <form name="quiz"id="quiz">
+
 <div>
 <p> 1.مانی در کجابدنیا امد؟</p>
 <p><input type="radio" name="qustion1"  value="ابهر">A.ابهر</p>
@@ -63,8 +63,8 @@ background-color: #4CAF50; /* Green */
 <p><input type="radio" name="qustion2"  value="tehran">C.tehran</p>
 <p><input type="radio" name="qustion2"  value="درسجین">d.درسجین</p>
 </div>
-<input type="button" class="button" name="" class="#" value=" submit" onclick="check()"></button>
-  </form> 
+<input type="button" class="button" name="" class="#" value=" submit" onclick="check()">
+
   <p id="result"></p>
   <p id="demo"></p>
   
