@@ -48,7 +48,7 @@ background-color: #4CAF50; /* Green */
     </style>
 </head>
 <body>
-  <form name="quiz"id="quiz">
+  
 <div>
 <p> 1.مانی در کجابدنیا امد؟</p>
 <p><input type="radio" name="qustion1"  value="ابهر">A.ابهر</p>
