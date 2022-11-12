@@ -63,7 +63,7 @@ background-color: #4CAF50; /* Green */
 <p><input type="radio" name="qustion2"  value="tehran">C.tehran</p>
 <p><input type="radio" name="qustion2"  value="درسجین">d.درسجین</p>
 </div>
-<input type="button" class="button" name="" class="#" value=" submit" onclick="check()"></button>
+
   </form> 
   <p id="result"></p>
   <p id="demo"></p>
@@ -96,4 +96,4 @@ if (c<=1) {
   </script>
 
 </body>
-</html>
+
