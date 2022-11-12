@@ -1,4 +1,3 @@
-
 <head>
   <title>Quiz App</title>
 <style>
@@ -227,4 +226,4 @@ const questions = [
 
 
 </body>
-</html>
+
